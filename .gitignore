@@ -25,3 +25,8 @@ ObjectStore
 *.ipr
 *.iws
 .idea
+
+# VSCode
+.vscode
+
+.factorypath
